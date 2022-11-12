@@ -3,7 +3,6 @@
 The objective of this project is to develop a simple To Do List.
 
 ## **Project Structure**
-
 to-do-list-flask
     ├── app.py
     ├── LICENSE
