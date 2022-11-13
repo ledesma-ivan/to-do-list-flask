@@ -12,3 +12,9 @@ The objective of this project is to develop a simple To Do List.
             │    
             ├── LICENSE
             ├──  README.md
+            
+### Run Flask
+
+```bash
+$ python3 app.py
+```
