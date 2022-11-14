@@ -11,6 +11,7 @@ The objective of this project is to develop a simple To Do List.
             ├── app.py
             │    
             ├── LICENSE
+            ├──  requirements.txt 
             ├──  README.md
 
 ## **Installation**
