@@ -18,11 +18,11 @@ The objective of this project is to develop a simple To Do List.
 You can use `Docker` to easily install all the needed packages and libraries.
 
 ```bash
-$ docker build -t flaskapi -f Dockerfile .
+$ docker build -t to-do-list-flask -f Dockerfile .
 ```    
 
 ### Run Docker
 
 ```bash
-$ docker run -d -p 5000:5000 flaskapi
+$ docker run -d -p 5000:5000 to-do-list-flask
 ```    
